@@ -1,6 +1,6 @@
 
 # CRUDS Project
-### Product Management System
+## Product Management System
 
 it's a project I made to train on DOM JS
 
